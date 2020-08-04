@@ -3,5 +3,5 @@ package lib
 import "fmt"
 
 func Hello() {
-	fmt.Printf("master")
+	fmt.Printf("v2")
 }
